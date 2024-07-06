@@ -182,3 +182,4 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,unrealengine
+/DatasetGeneration/Neural Networks/Data
